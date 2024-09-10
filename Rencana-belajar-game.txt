@@ -1,5 +1,10 @@
 Rencana belajar bikin game
 
+Tambahan-2
+
+
+
 - Menggunakan game engine ue4
   ^ Belajar c++
+
 - Belajar Visual scripting 
