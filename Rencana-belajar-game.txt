@@ -1,4 +1,5 @@
 Rencana belajar bikin game
 
-- Bejalajar c++
+- Menggunakan game engine unity
+ ^ Bejalajar c++
 - Belajar Visual scripting 
