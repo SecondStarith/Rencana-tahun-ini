@@ -1,0 +1,4 @@
+Rencana belajar bikin game
+
+- Bejalajar c++
+- Belajar Visual scripting 
